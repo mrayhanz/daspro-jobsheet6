@@ -68,7 +68,7 @@ public class Latihan3 {
                 if (ukuran >= 40) {
                     System.out.print("Harga Rp 1.500.000");
                 }else if (ukuran <= 44) {
-                    System.out.print("harga Rp 1.5[00.000");
+                    System.out.print("harga Rp 1.500.000");
                 }else{
                     System.out.println("Ukuran Invalid");
                 }
